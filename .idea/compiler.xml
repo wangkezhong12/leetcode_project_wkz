@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="7_reverse_integer" />
         <module name="1_two_sum" />
+        <module name="13_roman_to_integer" />
       </profile>
     </annotationProcessing>
   </component>
