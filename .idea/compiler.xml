@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="7_reverse_integer" />
+        <module name="912_sort_an_array" />
         <module name="1_two_sum" />
         <module name="13_roman_to_integer" />
       </profile>
