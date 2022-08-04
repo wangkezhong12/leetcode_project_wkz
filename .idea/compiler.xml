@@ -10,6 +10,7 @@
         <module name="912_sort_an_array" />
         <module name="1_two_sum" />
         <module name="13_roman_to_integer" />
+        <module name="offer_II_042_moving_average_of_sliding_window" />
       </profile>
     </annotationProcessing>
   </component>
