@@ -13,6 +13,8 @@
         <module>13_roman_to_integer</module>
         <module>912_sort_an_array</module>
         <module>offer_II_042_moving_average_of_sliding_window</module>
+        <module>36_valid_sudoku</module>
+        <module>3_longest_substring_without_repeating_characters</module>
     </modules>
 
     <properties>

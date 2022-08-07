@@ -1,5 +1,5 @@
 /**
- * 求滑动窗口的平均值，使用栈的思想来实现
+ * 求滑动窗口的平均值，使用队列的思想来实现
  */
 public class MovingAverage {
 
@@ -18,10 +18,10 @@ public class MovingAverage {
 
         elementSize++;
         sum += val;
-        if (elementSize <= window.length) { //栈不满时直接求和并按照实际元素个数求均值
+        if (elementSize <= window.length) { //队列不满时直接求和并按照实际元素个数求均值
             window[elementSize - 1] = val;
             return (double) sum/elementSize;
-        } else {      //栈满时需要将第一个数出栈，再将新值插入到最后
+        } else {      //队列满时需要将第一个数出栈，再将新值插入到最后
             int head = window[0];
             for (int i = 0; i < window.length-1; i++) {
                 window[i] = window[i+1];
