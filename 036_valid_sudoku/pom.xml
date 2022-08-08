@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>7_reverse_integer</artifactId>
+    <artifactId>036_valid_sudoku</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

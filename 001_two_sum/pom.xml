@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>36_valid_sudoku</artifactId>
+    <artifactId>001_two_sum</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

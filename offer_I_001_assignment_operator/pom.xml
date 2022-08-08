@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>1_two_sum</artifactId>
+    <artifactId>offer_I_001_assignment_operator</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

@@ -7,13 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="7_reverse_integer" />
+        <module name="002_add_two_numbers" />
         <module name="912_sort_an_array" />
         <module name="13_roman_to_integer" />
-        <module name="36_valid_sudoku" />
         <module name="3_longest_substring_without_repeating_characters" />
-        <module name="1_two_sum" />
+        <module name="36_valid_sudoku" />
         <module name="offer_II_042_moving_average_of_sliding_window" />
+        <module name="1_two_sum" />
+        <module name="offer_I_001_assignment_operator" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001_two_sum" target="11" />
+      <module name="003_longest_substring_without_repeating_characters" target="11" />
+      <module name="007_reverse_integer" target="11" />
+      <module name="013_roman_to_integer" target="11" />
+      <module name="036_valid_sudoku" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

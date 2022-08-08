@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>3_longest_substring_without_repeating_characters</artifactId>
+    <artifactId>002_add_two_numbers</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>13_roman_to_integer</artifactId>
+    <artifactId>003_longest_substring_without_repeating_characters</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
