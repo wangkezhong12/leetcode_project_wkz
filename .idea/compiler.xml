@@ -12,6 +12,7 @@
         <module name="13_roman_to_integer" />
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="36_valid_sudoku" />
+        <module name="offer_I_002_singleton" />
         <module name="offer_II_042_moving_average_of_sliding_window" />
         <module name="1_two_sum" />
         <module name="offer_I_001_assignment_operator" />
