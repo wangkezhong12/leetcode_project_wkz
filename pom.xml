@@ -18,6 +18,10 @@
         <module>002_add_two_numbers</module>
         <module>offer_I_001_assignment_operator</module>
         <module>offer_I_002_singleton</module>
+        <module>005_longest_palindromic_substring</module>
+        <module>009_palindrome_number</module>
+        <module>020_valid_parentheses</module>
+        <module>019_remove_Nth_node_from_end_of_list</module>
     </modules>
 
     <properties>
