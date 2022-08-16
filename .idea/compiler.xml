@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="012_integer_to_roman" />
         <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
         <module name="011_container_with_most_water" />
