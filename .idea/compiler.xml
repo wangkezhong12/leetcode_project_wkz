@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
+        <module name="011_container_with_most_water" />
         <module name="36_valid_sudoku" />
         <module name="offer_I_001_assignment_operator" />
         <module name="7_reverse_integer" />
