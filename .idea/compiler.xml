@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
         <module name="36_valid_sudoku" />
         <module name="offer_I_001_assignment_operator" />

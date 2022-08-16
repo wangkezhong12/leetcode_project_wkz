@@ -22,6 +22,7 @@
         <module>009_palindrome_number</module>
         <module>020_valid_parentheses</module>
         <module>019_remove_Nth_node_from_end_of_list</module>
+        <module>006_zigzag_conversion</module>
     </modules>
 
     <properties>
