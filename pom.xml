@@ -25,6 +25,8 @@
         <module>006_zigzag_conversion</module>
         <module>011_container_with_most_water</module>
         <module>012_integer_to_roman</module>
+        <module>104_maximum_depth_of_binary_tree</module>
+        <module>226_invert_binary_tree</module>
     </modules>
 
     <properties>
