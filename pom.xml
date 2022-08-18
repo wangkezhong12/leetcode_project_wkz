@@ -27,6 +27,7 @@
         <module>012_integer_to_roman</module>
         <module>104_maximum_depth_of_binary_tree</module>
         <module>226_invert_binary_tree</module>
+        <module>102_binary_tree_level_order_traversal</module>
     </modules>
 
     <properties>
