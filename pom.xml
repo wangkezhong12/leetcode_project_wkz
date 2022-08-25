@@ -30,6 +30,12 @@
         <module>102_binary_tree_level_order_traversal</module>
         <module>053_maximum_subarray</module>
         <module>110_balanced_binary_tree</module>
+        <module>058_length_of_last_word</module>
+        <module>066_plus_one</module>
+        <module>067_add_binary</module>
+        <module>100_same_tree</module>
+        <module>112_path_sum</module>
+        <module>118_pascals_triangle</module>
     </modules>
 
     <properties>
