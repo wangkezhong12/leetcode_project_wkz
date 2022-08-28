@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="012_integer_to_roman" />
         <module name="067_add_binary" />
+        <module name="136_single_number" />
         <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
         <module name="053_maximum_subarray" />
@@ -18,6 +19,7 @@
         <module name="058_length_of_last_word" />
         <module name="912_sort_an_array" />
         <module name="005_longest_palindromic_substring" />
+        <module name="119_pascals_triangle_II" />
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="1_two_sum" />
         <module name="112_path_sum" />

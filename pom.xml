@@ -36,6 +36,8 @@
         <module>100_same_tree</module>
         <module>112_path_sum</module>
         <module>118_pascals_triangle</module>
+        <module>119_pascals_triangle_II</module>
+        <module>136_single_number</module>
     </modules>
 
     <properties>
