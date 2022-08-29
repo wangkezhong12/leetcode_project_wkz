@@ -38,6 +38,7 @@
         <module>118_pascals_triangle</module>
         <module>119_pascals_triangle_II</module>
         <module>136_single_number</module>
+        <module>088_merge_sorted_array</module>
     </modules>
 
     <properties>
