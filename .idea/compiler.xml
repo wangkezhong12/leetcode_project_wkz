@@ -30,6 +30,7 @@
         <module name="104_maximum_depth_of_binary_tree" />
         <module name="7_reverse_integer" />
         <module name="110_balanced_binary_tree" />
+        <module name="160_intersection_of_two_linked_lists" />
         <module name="13_roman_to_integer" />
         <module name="118_pascals_triangle" />
         <module name="102_binary_tree_level_order_traversal" />

@@ -39,6 +39,7 @@
         <module>119_pascals_triangle_II</module>
         <module>136_single_number</module>
         <module>088_merge_sorted_array</module>
+        <module>160_intersection_of_two_linked_lists</module>
     </modules>
 
     <properties>
