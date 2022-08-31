@@ -22,6 +22,7 @@
         <module name="119_pascals_triangle_II" />
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="1_two_sum" />
+        <module name="125_valid_palindrome" />
         <module name="112_path_sum" />
         <module name="088_merge_sorted_array" />
         <module name="011_container_with_most_water" />
@@ -30,6 +31,7 @@
         <module name="104_maximum_depth_of_binary_tree" />
         <module name="7_reverse_integer" />
         <module name="110_balanced_binary_tree" />
+        <module name="169_majority_element" />
         <module name="160_intersection_of_two_linked_lists" />
         <module name="13_roman_to_integer" />
         <module name="118_pascals_triangle" />

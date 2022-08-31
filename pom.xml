@@ -40,6 +40,8 @@
         <module>136_single_number</module>
         <module>088_merge_sorted_array</module>
         <module>160_intersection_of_two_linked_lists</module>
+        <module>169_majority_element</module>
+        <module>125_valid_palindrome</module>
     </modules>
 
     <properties>
