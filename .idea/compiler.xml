@@ -11,6 +11,7 @@
         <module name="136_single_number" />
         <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
+        <module name="121_best_time_to_buy_and_sell_stock" />
         <module name="053_maximum_subarray" />
         <module name="066_plus_one" />
         <module name="offer_I_001_assignment_operator" />

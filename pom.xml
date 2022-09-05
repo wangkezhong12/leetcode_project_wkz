@@ -42,6 +42,7 @@
         <module>160_intersection_of_two_linked_lists</module>
         <module>169_majority_element</module>
         <module>125_valid_palindrome</module>
+        <module>121_best_time_to_buy_and_sell_stock</module>
     </modules>
 
     <properties>
