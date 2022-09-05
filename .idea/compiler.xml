@@ -36,6 +36,7 @@
         <module name="160_intersection_of_two_linked_lists" />
         <module name="13_roman_to_integer" />
         <module name="118_pascals_triangle" />
+        <module name="141_linked_list_cycle" />
         <module name="102_binary_tree_level_order_traversal" />
         <module name="019_remove_Nth_node_from_end_of_list" />
         <module name="offer_I_002_singleton" />
