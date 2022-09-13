@@ -14,10 +14,12 @@
         <module name="121_best_time_to_buy_and_sell_stock" />
         <module name="053_maximum_subarray" />
         <module name="066_plus_one" />
+        <module name="693_binary_number_with_alternating_bits" />
         <module name="offer_I_001_assignment_operator" />
         <module name="009_palindrome_number" />
         <module name="002_add_two_numbers" />
         <module name="058_length_of_last_word" />
+        <module name="182_duplicate_emails" />
         <module name="912_sort_an_array" />
         <module name="005_longest_palindromic_substring" />
         <module name="119_pascals_triangle_II" />

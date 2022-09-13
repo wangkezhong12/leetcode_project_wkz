@@ -44,6 +44,8 @@
         <module>125_valid_palindrome</module>
         <module>121_best_time_to_buy_and_sell_stock</module>
         <module>141_linked_list_cycle</module>
+        <module>693_binary_number_with_alternating_bits</module>
+        <module>182_duplicate_emails</module>
     </modules>
 
     <properties>
