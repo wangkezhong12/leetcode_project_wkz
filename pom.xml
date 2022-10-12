@@ -48,6 +48,7 @@
         <module>182_duplicate_emails</module>
         <module>232_implement_queue_using_stacks</module>
         <module>offer_II_026_reorder_list</module>
+        <module>offer_I_006_reverse_print_list</module>
     </modules>
 
     <properties>
