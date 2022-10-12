@@ -18,9 +18,11 @@
         <module name="offer_I_001_assignment_operator" />
         <module name="009_palindrome_number" />
         <module name="002_add_two_numbers" />
+        <module name="232_implement_queue_using_stacks" />
         <module name="058_length_of_last_word" />
         <module name="182_duplicate_emails" />
         <module name="912_sort_an_array" />
+        <module name="offer_II_026_reorder_list" />
         <module name="005_longest_palindromic_substring" />
         <module name="119_pascals_triangle_II" />
         <module name="3_longest_substring_without_repeating_characters" />

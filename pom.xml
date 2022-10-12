@@ -46,6 +46,8 @@
         <module>141_linked_list_cycle</module>
         <module>693_binary_number_with_alternating_bits</module>
         <module>182_duplicate_emails</module>
+        <module>232_implement_queue_using_stacks</module>
+        <module>offer_II_026_reorder_list</module>
     </modules>
 
     <properties>
