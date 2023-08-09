@@ -6,55 +6,59 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="012_integer_to_roman" />
         <module name="067_add_binary" />
-        <module name="136_single_number" />
-        <module name="006_zigzag_conversion" />
         <module name="020_valid_parentheses" />
-        <module name="121_best_time_to_buy_and_sell_stock" />
         <module name="053_maximum_subarray" />
         <module name="066_plus_one" />
-        <module name="693_binary_number_with_alternating_bits" />
         <module name="offer_I_006_reverse_print_list" />
         <module name="offer_I_001_assignment_operator" />
         <module name="009_palindrome_number" />
         <module name="002_add_two_numbers" />
         <module name="232_implement_queue_using_stacks" />
-        <module name="058_length_of_last_word" />
+        <module name="offer_I_06_reverse_print_list" />
         <module name="182_duplicate_emails" />
-        <module name="912_sort_an_array" />
-        <module name="offer_II_026_reorder_list" />
-        <module name="005_longest_palindromic_substring" />
         <module name="119_pascals_triangle_II" />
-        <module name="3_longest_substring_without_repeating_characters" />
         <module name="1_two_sum" />
         <module name="125_valid_palindrome" />
         <module name="112_path_sum" />
         <module name="088_merge_sorted_array" />
+        <module name="7_reverse_integer" />
+        <module name="110_balanced_binary_tree" />
+        <module name="160_intersection_of_two_linked_lists" />
+        <module name="001_two_sum" />
+        <module name="13_roman_to_integer" />
+        <module name="036_valid_sudoku" />
+        <module name="118_pascals_triangle" />
+        <module name="003_longest_substring_without_repeating_characters" />
+        <module name="019_remove_Nth_node_from_end_of_list" />
+        <module name="012_integer_to_roman" />
+        <module name="136_single_number" />
+        <module name="006_zigzag_conversion" />
+        <module name="121_best_time_to_buy_and_sell_stock" />
+        <module name="693_binary_number_with_alternating_bits" />
+        <module name="058_length_of_last_word" />
+        <module name="912_sort_an_array" />
+        <module name="offer_II_026_reorder_list" />
+        <module name="005_longest_palindromic_substring" />
+        <module name="1749_maxium_absolute_sum_of_any_subarray" />
+        <module name="3_longest_substring_without_repeating_characters" />
+        <module name="007_reverse_integer" />
         <module name="011_container_with_most_water" />
         <module name="36_valid_sudoku" />
         <module name="100_same_tree" />
         <module name="104_maximum_depth_of_binary_tree" />
-        <module name="7_reverse_integer" />
-        <module name="110_balanced_binary_tree" />
+        <module name="013_roman_to_integer" />
         <module name="169_majority_element" />
-        <module name="160_intersection_of_two_linked_lists" />
-        <module name="13_roman_to_integer" />
-        <module name="118_pascals_triangle" />
         <module name="141_linked_list_cycle" />
         <module name="102_binary_tree_level_order_traversal" />
-        <module name="019_remove_Nth_node_from_end_of_list" />
         <module name="offer_I_002_singleton" />
         <module name="226_invert_binary_tree" />
+        <module name="283_move_zeros" />
         <module name="offer_II_042_moving_average_of_sliding_window" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="001_two_sum" target="11" />
-      <module name="003_longest_substring_without_repeating_characters" target="11" />
-      <module name="007_reverse_integer" target="11" />
-      <module name="013_roman_to_integer" target="11" />
-      <module name="036_valid_sudoku" target="11" />
+      <module name="leetcode_project_wkz" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
