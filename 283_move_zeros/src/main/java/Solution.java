@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class Solution {
     public static void moveZeros(int[] nums) {
@@ -16,7 +15,6 @@ public class Solution {
         }
 
 
-        System.out.println(Arrays.toString(nums));
 
     }
 
