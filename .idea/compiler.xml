@@ -46,6 +46,7 @@
         <module name="007_reverse_integer" />
         <module name="344_reverse_string" />
         <module name="011_container_with_most_water" />
+        <module name="1572_matrix_diagonal_sum" />
         <module name="36_valid_sudoku" />
         <module name="100_same_tree" />
         <module name="104_maximum_depth_of_binary_tree" />

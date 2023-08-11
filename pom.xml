@@ -53,6 +53,7 @@
         <module>283_move_zeros</module>
         <module>344_reverse_string</module>
         <module>1281_subtract_the_product_and_sum_of_digits_of_an_integer</module>
+        <module>1572_matrix_diagonal_sum</module>
     </modules>
 
     <properties>
