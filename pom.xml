@@ -51,6 +51,8 @@
         <module>offer_I_006_reverse_print_list</module>
         <module>1749_maxium_absolute_sum_of_any_subarray</module>
         <module>283_move_zeros</module>
+        <module>344_reverse_string</module>
+        <module>1281_subtract_the_product_and_sum_of_digits_of_an_integer</module>
     </modules>
 
     <properties>

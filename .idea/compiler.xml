@@ -24,6 +24,7 @@
         <module name="088_merge_sorted_array" />
         <module name="7_reverse_integer" />
         <module name="110_balanced_binary_tree" />
+        <module name="1281_subtract_the_product_and_sum_of_digits_of_an_integer" />
         <module name="160_intersection_of_two_linked_lists" />
         <module name="001_two_sum" />
         <module name="13_roman_to_integer" />
@@ -43,6 +44,7 @@
         <module name="1749_maxium_absolute_sum_of_any_subarray" />
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="007_reverse_integer" />
+        <module name="344_reverse_string" />
         <module name="011_container_with_most_water" />
         <module name="36_valid_sudoku" />
         <module name="100_same_tree" />
@@ -57,8 +59,5 @@
         <module name="offer_II_042_moving_average_of_sliding_window" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="leetcode_project_wkz" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
