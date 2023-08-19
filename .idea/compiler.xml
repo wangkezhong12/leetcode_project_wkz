@@ -11,6 +11,7 @@
         <module name="053_maximum_subarray" />
         <module name="066_plus_one" />
         <module name="offer_I_006_reverse_print_list" />
+        <module name="2235_add_two_integers" />
         <module name="offer_I_001_assignment_operator" />
         <module name="009_palindrome_number" />
         <module name="002_add_two_numbers" />
@@ -45,6 +46,7 @@
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="007_reverse_integer" />
         <module name="344_reverse_string" />
+        <module name="021_merge_two_sorted_lists" />
         <module name="011_container_with_most_water" />
         <module name="1572_matrix_diagonal_sum" />
         <module name="36_valid_sudoku" />

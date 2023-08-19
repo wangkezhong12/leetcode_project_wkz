@@ -54,6 +54,8 @@
         <module>344_reverse_string</module>
         <module>1281_subtract_the_product_and_sum_of_digits_of_an_integer</module>
         <module>1572_matrix_diagonal_sum</module>
+        <module>021_merge_two_sorted_lists</module>
+        <module>2235_add_two_integers</module>
     </modules>
 
     <properties>
