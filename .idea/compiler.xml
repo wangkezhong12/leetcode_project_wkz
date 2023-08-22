@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="004_median_of_two_sorted_arrays" />
         <module name="067_add_binary" />
         <module name="020_valid_parentheses" />
         <module name="053_maximum_subarray" />
@@ -13,15 +14,19 @@
         <module name="offer_I_006_reverse_print_list" />
         <module name="2235_add_two_integers" />
         <module name="offer_I_001_assignment_operator" />
+        <module name="855_exam_room" />
         <module name="009_palindrome_number" />
         <module name="002_add_two_numbers" />
         <module name="232_implement_queue_using_stacks" />
         <module name="offer_I_06_reverse_print_list" />
+        <module name="2236_root_equals_sum_of_children" />
         <module name="182_duplicate_emails" />
+        <module name="849_maximize_distance_to_closest_person" />
         <module name="119_pascals_triangle_II" />
         <module name="1_two_sum" />
         <module name="125_valid_palindrome" />
         <module name="112_path_sum" />
+        <module name="049_group_anagrams" />
         <module name="088_merge_sorted_array" />
         <module name="7_reverse_integer" />
         <module name="110_balanced_binary_tree" />

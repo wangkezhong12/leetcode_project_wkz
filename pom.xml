@@ -56,7 +56,21 @@
         <module>1572_matrix_diagonal_sum</module>
         <module>021_merge_two_sorted_lists</module>
         <module>2235_add_two_integers</module>
+        <module>2236_root_equals_sum_of_children</module>
+        <module>004_median_of_two_sorted_arrays</module>
+        <module>849_maximize_distance_to_closest_person</module>
+        <module>855_exam_room</module>
+        <module>049_group_anagrams</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
