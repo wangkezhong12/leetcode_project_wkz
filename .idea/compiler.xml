@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="004_median_of_two_sorted_arrays" />
         <module name="067_add_binary" />
+        <module name="082_remove_duplicates_from_sorted_list_ii" />
         <module name="020_valid_parentheses" />
         <module name="053_maximum_subarray" />
         <module name="066_plus_one" />
@@ -22,6 +23,7 @@
         <module name="2236_root_equals_sum_of_children" />
         <module name="182_duplicate_emails" />
         <module name="849_maximize_distance_to_closest_person" />
+        <module name="203_remove_linked_list_elements" />
         <module name="119_pascals_triangle_II" />
         <module name="1_two_sum" />
         <module name="125_valid_palindrome" />
@@ -59,6 +61,7 @@
         <module name="104_maximum_depth_of_binary_tree" />
         <module name="013_roman_to_integer" />
         <module name="169_majority_element" />
+        <module name="234_palindrome_linked_list" />
         <module name="141_linked_list_cycle" />
         <module name="102_binary_tree_level_order_traversal" />
         <module name="offer_I_002_singleton" />

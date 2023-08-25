@@ -21,7 +21,12 @@ public class ListNode {
     }
 
     public void printList() {
-        System.out.println(this.toString());
+        if (this == null) {
+            System.out.println("[]");
+        } else {
+            System.out.println("[ " + this.toString() +" ]");
+
+        }
     }
 
 

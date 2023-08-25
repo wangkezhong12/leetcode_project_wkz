@@ -61,6 +61,9 @@
         <module>849_maximize_distance_to_closest_person</module>
         <module>855_exam_room</module>
         <module>049_group_anagrams</module>
+        <module>203_remove_linked_list_elements</module>
+        <module>234_palindrome_linked_list</module>
+        <module>082_remove_duplicates_from_sorted_list_ii</module>
     </modules>
 
     <dependencies>
