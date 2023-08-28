@@ -64,6 +64,10 @@
         <module>203_remove_linked_list_elements</module>
         <module>234_palindrome_linked_list</module>
         <module>082_remove_duplicates_from_sorted_list_ii</module>
+        <module>237_delete_node_in_a_linked_list</module>
+        <module>086_partition_list</module>
+        <module>LCR077_sort_list</module>
+        <module>217_contains_duplicate</module>
     </modules>
 
     <dependencies>

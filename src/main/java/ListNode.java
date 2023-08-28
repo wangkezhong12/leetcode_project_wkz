@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class ListNode {
     int val;
     ListNode next;
@@ -5,6 +7,17 @@ public class ListNode {
     ListNode(int val) { this.val = val; }
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 
+    public static ListNode generateList(int[] vals) {
+        ListNode head = new ListNode(vals[0]);
+        ListNode p = head;
+        for (int i = 1; i < vals.length; i++) {
+            ListNode tempNode = new ListNode(vals[i]);
+            p.next = tempNode;
+            p = p.next;
+        }
+        return head;
+
+    }
 
     public String toString() {
         ListNode dem = this;

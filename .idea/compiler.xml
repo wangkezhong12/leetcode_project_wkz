@@ -22,6 +22,7 @@
         <module name="offer_I_06_reverse_print_list" />
         <module name="2236_root_equals_sum_of_children" />
         <module name="182_duplicate_emails" />
+        <module name="086_partition_list" />
         <module name="849_maximize_distance_to_closest_person" />
         <module name="203_remove_linked_list_elements" />
         <module name="119_pascals_triangle_II" />
@@ -41,6 +42,7 @@
         <module name="003_longest_substring_without_repeating_characters" />
         <module name="019_remove_Nth_node_from_end_of_list" />
         <module name="012_integer_to_roman" />
+        <module name="237_delete_node_in_a_linked_list" />
         <module name="136_single_number" />
         <module name="006_zigzag_conversion" />
         <module name="121_best_time_to_buy_and_sell_stock" />
@@ -64,10 +66,12 @@
         <module name="234_palindrome_linked_list" />
         <module name="141_linked_list_cycle" />
         <module name="102_binary_tree_level_order_traversal" />
+        <module name="217_contains_duplicate" />
         <module name="offer_I_002_singleton" />
         <module name="226_invert_binary_tree" />
         <module name="283_move_zeros" />
         <module name="offer_II_042_moving_average_of_sliding_window" />
+        <module name="LCR077_sort_list" />
       </profile>
     </annotationProcessing>
   </component>
