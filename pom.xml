@@ -68,6 +68,8 @@
         <module>086_partition_list</module>
         <module>LCR077_sort_list</module>
         <module>217_contains_duplicate</module>
+        <module>046_permutations</module>
+        <module>047_permutations_ii</module>
     </modules>
 
     <dependencies>
