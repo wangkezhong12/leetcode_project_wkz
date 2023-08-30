@@ -70,6 +70,7 @@
         <module>217_contains_duplicate</module>
         <module>046_permutations</module>
         <module>047_permutations_ii</module>
+        <module>022_generate_parentheses</module>
     </modules>
 
     <dependencies>

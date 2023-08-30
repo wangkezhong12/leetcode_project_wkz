@@ -1,10 +1,12 @@
 import java.util.ArrayList;
-import java.util.HashSet;
+import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
-public class Solution {
+public class Solution_1 {
+
+
     public List<List<Integer>> permuteUnique(int[] nums) {
+
         int len = nums.length;
 
         List<List<Integer>> resList = new ArrayList<>();
@@ -13,10 +15,12 @@ public class Solution {
 
         boolean[] used = new boolean[len];
 
+
+        Arrays.sort(nums);
+
         dfs(nums, len, 0, used, path, resList);
 
-        return resList.stream().distinct().collect(Collectors.toList());
-
+        return resList;
     }
 
     private void dfs(int[] nums, int len, int depth, boolean[] used,
@@ -29,6 +33,9 @@ public class Solution {
         }
 
         for (int i = 0; i < nums.length; i++) {
+            if (i > 0 && nums[i] == nums[i-1] && !used[i-1]) {
+                continue;
+            }
             if (!used[i]) {
                 path.add(nums[i]);
                 used[i] = true;
@@ -36,15 +43,10 @@ public class Solution {
                 dfs(nums, len, depth + 1, used, path, res);
 
                 used[i] = false;
-                path.remove(path.size() -1);
-
+                path.remove(depth);
 
             }
-
         }
-            
+
     }
-
-
-
 }
