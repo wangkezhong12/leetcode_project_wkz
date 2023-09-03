@@ -71,6 +71,10 @@
         <module>046_permutations</module>
         <module>047_permutations_ii</module>
         <module>022_generate_parentheses</module>
+        <module>039_combination_sum</module>
+        <module>051_n_queens</module>
+        <module>052_n_queens_ii</module>
+        <module>229_majority_element_ii</module>
     </modules>
 
     <dependencies>

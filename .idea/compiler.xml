@@ -23,6 +23,7 @@
         <module name="2236_root_equals_sum_of_children" />
         <module name="182_duplicate_emails" />
         <module name="086_partition_list" />
+        <module name="039_combination_sum" />
         <module name="849_maximize_distance_to_closest_person" />
         <module name="203_remove_linked_list_elements" />
         <module name="119_pascals_triangle_II" />
@@ -33,6 +34,7 @@
         <module name="088_merge_sorted_array" />
         <module name="047_permutations_ii" />
         <module name="046_permutations" />
+        <module name="229_majority_element_ii" />
         <module name="7_reverse_integer" />
         <module name="110_balanced_binary_tree" />
         <module name="1281_subtract_the_product_and_sum_of_digits_of_an_integer" />
@@ -42,6 +44,7 @@
         <module name="036_valid_sudoku" />
         <module name="118_pascals_triangle" />
         <module name="003_longest_substring_without_repeating_characters" />
+        <module name="052_n_queens_ii" />
         <module name="019_remove_Nth_node_from_end_of_list" />
         <module name="012_integer_to_roman" />
         <module name="237_delete_node_in_a_linked_list" />
@@ -49,6 +52,7 @@
         <module name="006_zigzag_conversion" />
         <module name="121_best_time_to_buy_and_sell_stock" />
         <module name="693_binary_number_with_alternating_bits" />
+        <module name="051_n_queens" />
         <module name="058_length_of_last_word" />
         <module name="912_sort_an_array" />
         <module name="offer_II_026_reorder_list" />
