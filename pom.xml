@@ -75,6 +75,8 @@
         <module>051_n_queens</module>
         <module>052_n_queens_ii</module>
         <module>229_majority_element_ii</module>
+        <module>000_sort</module>
+        <module>206_reverse_linked_list</module>
     </modules>
 
     <dependencies>

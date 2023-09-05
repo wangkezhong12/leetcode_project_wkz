@@ -69,9 +69,11 @@
         <module name="100_same_tree" />
         <module name="104_maximum_depth_of_binary_tree" />
         <module name="013_roman_to_integer" />
+        <module name="000_sort" />
         <module name="169_majority_element" />
         <module name="234_palindrome_linked_list" />
         <module name="141_linked_list_cycle" />
+        <module name="206_reverse_linked_list" />
         <module name="102_binary_tree_level_order_traversal" />
         <module name="217_contains_duplicate" />
         <module name="offer_I_002_singleton" />
