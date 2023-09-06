@@ -77,6 +77,9 @@
         <module>229_majority_element_ii</module>
         <module>000_sort</module>
         <module>206_reverse_linked_list</module>
+        <module>2605_form_smallest_number_from_two_digit_arrays</module>
+        <module>704_binary_search</module>
+        <module>035_search_insert_position</module>
     </modules>
 
     <dependencies>

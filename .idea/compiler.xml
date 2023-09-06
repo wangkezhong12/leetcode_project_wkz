@@ -46,10 +46,12 @@
         <module name="003_longest_substring_without_repeating_characters" />
         <module name="052_n_queens_ii" />
         <module name="019_remove_Nth_node_from_end_of_list" />
+        <module name="035_search_insert_position" />
         <module name="012_integer_to_roman" />
         <module name="237_delete_node_in_a_linked_list" />
         <module name="136_single_number" />
         <module name="006_zigzag_conversion" />
+        <module name="704_binary_search" />
         <module name="121_best_time_to_buy_and_sell_stock" />
         <module name="693_binary_number_with_alternating_bits" />
         <module name="051_n_queens" />
@@ -58,6 +60,7 @@
         <module name="offer_II_026_reorder_list" />
         <module name="005_longest_palindromic_substring" />
         <module name="1749_maxium_absolute_sum_of_any_subarray" />
+        <module name="2605_form_smallest_number_from_two_digit_arrays" />
         <module name="3_longest_substring_without_repeating_characters" />
         <module name="007_reverse_integer" />
         <module name="344_reverse_string" />
