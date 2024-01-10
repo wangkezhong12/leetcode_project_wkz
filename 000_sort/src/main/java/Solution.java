@@ -1,5 +1,11 @@
 public class Solution {
 
+
+    /**
+     * 选择排序
+     * @param nums
+     * @return
+     */
     public int[] selectSort(int[] nums) {
 
         for (int i = 0; i < nums.length-1; i++) {
@@ -19,6 +25,11 @@ public class Solution {
 
     }
 
+    /**
+     * 插入排序
+     * @param nums
+     * @return
+     */
     public int[] insertSort(int[] nums) {
 
         if (nums == null || nums.length < 2) {
@@ -47,6 +58,11 @@ public class Solution {
         return nums;
     }
 
+    /**
+     * 冒泡排序
+     * @param nums
+     * @return
+     */
     public int[] bubbleSort(int[] nums) {
 
         int n = nums.length;
@@ -65,6 +81,13 @@ public class Solution {
         return nums;
     }
 
+    /**
+     * 快速排序
+     * @param nums
+     * @param left
+     * @param right
+     * @return
+     */
     public int[] quickSort(int[] nums, int left, int right) {
         if (left < right) {
             int mid = partition(nums, left, right);
@@ -104,4 +127,18 @@ public class Solution {
 
         return j;
     }
+
+
+    /**
+     * 归并排序
+     * @param nums
+     * @return
+     */
+    public int[] mergeSort(int[] nums) {
+
+        int[] res = new int[5];
+        return res;
+    }
+
+
 }

@@ -80,6 +80,37 @@
         <module>2605_form_smallest_number_from_two_digit_arrays</module>
         <module>704_binary_search</module>
         <module>035_search_insert_position</module>
+        <module>094_binary_tree_inorder_traversal</module>
+        <module>144_binary_tree_preorder_traversal</module>
+        <module>145_binary_tree_postorder_traversal</module>
+        <module>095_unique_binary_search_trees_ii</module>
+        <module>098_validate_binary_search_tree</module>
+        <module>501_find_mode_in_binary_search_tree</module>
+        <module>2570_merge_two_2d_arrays_by_summing_values</module>
+        <module>122_best_time_to_buy_and_sell_stock_ii</module>
+        <module>392_is_subsequence</module>
+        <module>383_ransom_note</module>
+        <module>242_valid_anagram</module>
+        <module>202_happy_number</module>
+        <module>219_contains_duplicate_ii</module>
+        <module>080_remove_duplicates_from_sorted_array_ii</module>
+        <module>228_summary_ranges</module>
+        <module>056_merge_intervals</module>
+        <module>637_average_of_levels_in_binary_tree</module>
+        <module>326_power_of_three</module>
+        <module>342_power_0f_four</module>
+        <module>231_power_of_two</module>
+        <module>191_number_of_1_bits</module>
+        <module>LCR_190_buyongjiajianchengchuzuojiafalcof</module>
+        <module>LCR_003_count_bits</module>
+        <module>LCR_032_is_anagram</module>
+        <module>1566_thousand_separator</module>
+        <module>1012_numbers_with_repeated_digits</module>
+        <module>209_minimum_size_subarray_sum</module>
+        <module>220_contains_duplicate_iii</module>
+        <module>395_longest_substring_with_at_least_k_repeating_characters</module>
+        <module>509_fib0nacci_number</module>
+        <module>1137_n_th_tribonacci_number</module>
     </modules>
 
     <dependencies>
