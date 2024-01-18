@@ -33,10 +33,65 @@ public class Solution {
         return true;
     }
 
+    public boolean isPalindrome1(String s) {
+        if (s.length() <= 1) {
+            return true;
+        }
+        char[] sArr = s.toLowerCase().toCharArray();
+        int l = 0;
+        int r = s.length()-1;
+//        System.out.println(Arrays.toString(sArr));
+
+        while(l<=r){
+
+            int lASC = (int)sArr[l];
+            int rASC = (int)sArr[r];
+//            System.out.print(lASC);
+//            System.out.println(rASC);
+            while(lASC < 48 || (lASC >57 && lASC <97) || lASC > 122) {
+                l++;
+                if (l>r) {
+                    break;
+                }
+
+                lASC = (int)sArr[l];
+
+            }
+            while (rASC < 48 || (rASC >57 && rASC <97) || rASC > 122) {
+                r--;
+                if (l>r) {
+                    break;
+                }
+                rASC = (int)sArr[r];
+            }
+
+            if (l>r) {
+                break;
+            }
+
+            if (lASC == rASC) {
+                l++;
+                r--;
+            } else {
+                return false;
+            }
+
+
+
+        }
+
+        return true;
+    }
+
+
+
+
     public static void main(String[] args) {
         Solution solution = new Solution();
-        String s = "0P";
-        boolean res = solution.isPalindrome(s);
-        System.out.println(res);
+        String s = ".;";
+        //boolean res = solution.isPalindrome(s);
+        boolean res1 = solution.isPalindrome1(s);
+
+        System.out.println(res1);
     }
 }

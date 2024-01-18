@@ -111,6 +111,22 @@
         <module>395_longest_substring_with_at_least_k_repeating_characters</module>
         <module>509_fib0nacci_number</module>
         <module>1137_n_th_tribonacci_number</module>
+        <module>070_climbing_stairs</module>
+        <module>746_min_cost_climbing_stairs</module>
+        <module>198_house_robber</module>
+        <module>516_longest_palindromic_subsequence</module>
+        <module>647_palindromic_substrings</module>
+        <module>300_longest_increasing_subsequence</module>
+        <module>2085_count_common_words_with_one_occurrence</module>
+        <module>128_longest_consecutive_sequence</module>
+        <module>438_find_all_anagrams_in_a_string</module>
+        <module>189_rotate_array</module>
+        <module>055_jump_game</module>
+        <module>274_h_index</module>
+        <module>680_valid_palindrome</module>
+        <module>008_string_to_integer_atoi</module>
+        <module>989_add_to_array_form_of_integer</module>
+        <module>917_reverse_only_letters</module>
     </modules>
 
     <dependencies>
