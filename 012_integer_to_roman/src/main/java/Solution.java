@@ -20,20 +20,7 @@ public class Solution {
         }};
         StringBuffer sb = new StringBuffer();
 
-        int step = 0;
-        while(num/10 > 0){
-            int temp = (int) (num%10 * Math.pow(10.0, (double) step));
-            if (map.containsKey(temp)){
-                sb.insert(0,map.get(temp));
-            } else {
 
-            }
-
-            num = num/10;
-            step += 1;
-
-            System.out.println(temp);
-        }
 
 
 

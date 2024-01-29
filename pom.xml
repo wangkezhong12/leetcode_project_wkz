@@ -127,6 +127,13 @@
         <module>008_string_to_integer_atoi</module>
         <module>989_add_to_array_form_of_integer</module>
         <module>917_reverse_only_letters</module>
+        <module>108_convert_sorted_array_to_binary_search_tree</module>
+        <module>103_binary_tree_zigzag_level_order_traversal</module>
+        <module>2765_longest_alternating_subarray</module>
+        <module>238_product_of_array_except_self</module>
+        <module>092_reverse_linked_list</module>
+        <module>061_rotate_list</module>
+        <module>205_isomorphic_strings</module>
     </modules>
 
     <dependencies>
