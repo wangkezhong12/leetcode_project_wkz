@@ -25,14 +25,17 @@
         <module name="231_power_of_two" />
         <module name="039_combination_sum" />
         <module name="849_maximize_distance_to_closest_person" />
+        <module name="2129_capitalize_the_title" />
         <module name="203_remove_linked_list_elements" />
         <module name="122_best_time_to_buy_and_sell_stock_ii" />
         <module name="917_reverse_only_letters" />
         <module name="049_group_anagrams" />
         <module name="047_permutations_ii" />
+        <module name="167_two_sum_ii_input_array_is_sorted" />
         <module name="680_valid_palindrome" />
         <module name="110_balanced_binary_tree" />
         <module name="1281_subtract_the_product_and_sum_of_digits_of_an_integer" />
+        <module name="290_word_pattern" />
         <module name="145_binary_tree_postorder_traversal" />
         <module name="160_intersection_of_two_linked_lists" />
         <module name="108_convert_sorted_array_to_binary_search_tree" />
@@ -42,6 +45,7 @@
         <module name="989_add_to_array_form_of_integer" />
         <module name="052_n_queens_ii" />
         <module name="035_search_insert_position" />
+        <module name="2864_maximum_odd_binary_number" />
         <module name="012_integer_to_roman" />
         <module name="136_single_number" />
         <module name="006_zigzag_conversion" />
@@ -97,6 +101,7 @@
         <module name="182_duplicate_emails" />
         <module name="086_partition_list" />
         <module name="144_binary_tree_preorder_traversal" />
+        <module name="057_insert_interval" />
         <module name="1012_numbers_with_repeated_digits" />
         <module name="119_pascals_triangle_II" />
         <module name="202_happy_number" />

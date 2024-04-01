@@ -78,4 +78,12 @@ public class Solution {
 
         return j;
     }
+
+    public ListNode sortList_new(ListNode head) {
+        ListNode headReal = head;
+        ListNode partTail = head.next;
+
+        return head;
+    }
+
 }

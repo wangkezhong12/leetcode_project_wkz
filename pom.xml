@@ -134,6 +134,11 @@
         <module>092_reverse_linked_list</module>
         <module>061_rotate_list</module>
         <module>205_isomorphic_strings</module>
+        <module>167_two_sum_ii_input_array_is_sorted</module>
+        <module>290_word_pattern</module>
+        <module>057_insert_interval</module>
+        <module>2129_capitalize_the_title</module>
+        <module>2864_maximum_odd_binary_number</module>
     </modules>
 
     <dependencies>
